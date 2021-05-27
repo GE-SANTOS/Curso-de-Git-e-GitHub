@@ -5,4 +5,6 @@
  
  Gerando uma alteração remota no Readme, para fazer um Pull no meu repositorio local.
  
- Como usar Issues.
+ Como usar Issues e Pull Request.
+
+ 
